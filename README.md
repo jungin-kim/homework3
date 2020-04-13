@@ -2,7 +2,8 @@
 
 Team name : 고인물
 
-Team member
+////////////Team member////////////
+
 김가연 
 https://github.com/rkdus5485/assignmnet_3
 
